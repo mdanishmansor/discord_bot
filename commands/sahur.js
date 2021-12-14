@@ -1,4 +1,4 @@
 module.exports = {
-    commands:['sahur', 'kejutsahur'],
-    expectedArgs: ''
+    name:['sahur', 'kejutsahur'],
+    
 }
